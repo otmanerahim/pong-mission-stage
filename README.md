@@ -31,7 +31,25 @@ La raquette dans le jeu est représenté par une un vecteur de coordonnées (pos
 Vous pouvez trouvez les différents TPs sur les liens ci-dessous.
 
 - [TP1](TP1)
-- [TP2](/ressources/TP1/)
+- [TP2](TP2)
 - [TP3](TP3)
 - [TP4](TP4)
 - [TP5](TP5)
+
+## Lancement du jeu
+
+Pour chaque TP il faut lancer le fichier pong.py
+
+## Prérequis
+
+python3
+
+```py
+pip install python3
+```
+
+librairie pygame
+
+```py
+pip install pygame
+```
