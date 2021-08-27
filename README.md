@@ -36,6 +36,13 @@ Vous pouvez trouvez les différents TPs sur les liens ci-dessous.
 - [TP4](TP4)
 - [TP5](TP5)
 
+Sur chaque TP vous pourrez modifier la vitesse de la balle et celle de la raquette dans le fichier **pong.py**
+
+```py
+SPEED_BALL=3 # Vitesse de la balle (lent = 0.5, normal=1.5, rapide=3)
+SPEED_PADDLE=3 # Vitesse de la raquette (lent = 0.5, normal=1.5, rapide=3)
+```
+
 ## Lancement du jeu
 
 Pour chaque TP il faut lancer le fichier pong.py
